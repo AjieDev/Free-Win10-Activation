@@ -23,6 +23,10 @@ This Script will activate your windows ( version 10 listed edition ) in seconds
 - 21H2
 - and older version (if work)
 
+# Issues
+
+If you see cURL error like; Empty reply from server or other ,Try run the script again or try check your internet.
+
 # IMPORTANT
 
 <b>I am not responsible for what you do, If not sure PLEASE buy an official license to support Microsoft.</b>
