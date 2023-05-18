@@ -1,5 +1,5 @@
 @echo off
-title Free Windows 10 Activation by AjieDev Co SW Ltd&cls
+title Free Windows 10 Activation by AjieDev Co SW Ltd.&cls
 net session >nul 2>&1
 if %errorLevel% GTR 0 (echo.&echo FAILED, please run CMD in administrators&echo.&goto halt)
 echo ============================================================================&echo #Project: Free Windows 10 Activation by AjieDev Co SW Ltd&echo ============================================================================&echo.&echo #Supported products:&echo - Windows 10 Home&echo - Windows 10 Home N&echo - Windows 10 Home Single Language&echo - Windows 10 Home Country Specific&echo - Windows 10 Professional&echo - Windows 10 Professional N&echo - Windows 10 Education&echo - Windows 10 Education N&echo - Windows 10 Enterprise&echo - Windows 10 Enterprise N&echo - Windows 10 Enterprise LTSB&echo - Windows 10 Enterprise LTSB N&echo.&echo.&echo ============================================================================&echo Activating your windows...&(cscript //nologo slmgr.vbs /ckms >nul || goto wshdisabled)&cscript //nologo slmgr.vbs /upk >nul&cscript //nologo slmgr.vbs /cpky >nul&set i=1&wmic os | findstr /I "enterprise" >nul
