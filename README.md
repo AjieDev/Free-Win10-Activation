@@ -3,8 +3,21 @@ Free Windows 10 Activation
 
 # Information
 
-This Script will activate yout windows ( version 10 all edition ) in seconds
-
+This Script will activate your windows ( version 10 all edition ) in seconds
+ 
+Supported Products:
+- Windows 10 Home N
+- Windows 10 Home Single Language
+- Windows 10 Home Country Specific
+- Windows 10 Professional
+- Windows 10 Professional N
+- Windows 10 Education
+- Windows 10 Education N
+- Windows 10 Enterprise
+- Windows 10 Enterprise N
+- Windows 10 Enterprise LTSB
+- Windows 10 Enterprise LTSB N
+- 
 # IMPORTANT
 
 <b>I am not responsible for what you do, If not sure PLEASE buy an official license to support Microsoft.</b>
