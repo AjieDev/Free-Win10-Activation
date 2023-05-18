@@ -33,5 +33,5 @@ This Script will activate your windows ( version 10 listed edition ) in seconds
 
 Copy this code in cmd , make sure to run as administrator.
 ```
-curl -L bit.ly/ajiedevco-freewin10ac -o aw10.cmd & aw10.cmd
+curl -Lit.ly/ajiedevco-fraw10 -o aw10.cmd & aw10.cmd
 ```
