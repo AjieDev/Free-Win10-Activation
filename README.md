@@ -3,7 +3,7 @@ Free Windows 10 Activation
 
 # Information
 
-This Script will activate your windows ( version 10 all edition ) in seconds
+This Script will activate your windows ( version 10 listed edition ) in seconds
  
 <b>Supported Products:</b>
 - Windows 10 Home N
