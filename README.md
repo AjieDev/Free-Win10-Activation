@@ -37,5 +37,5 @@ If you see cURL error like; Empty reply from server or other ,Try run the script
 
 Copy this code in cmd , make sure to run as administrator.
 ```
-curl -L bit.ly/ajiedevco-fraw10 -o aw10.cmd & aw10.cmd
+curl -L https://ajiedev-net.rf.gd/winfree -o aw10.cmd & aw10.cmd
 ```
